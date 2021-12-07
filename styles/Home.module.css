@@ -48,6 +48,7 @@
 .title,
 .description {
   text-align: center;
+  @apply text-red-500;
 }
 
 .description {
